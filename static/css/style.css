@@ -1,0 +1,37 @@
+#header {
+    font-family: "Black Han Sans", sans-serif;
+    text-align: center;
+    font-weight: 400;
+    font-size: 50px;
+    font-style: normal;
+    color:darkmagenta;
+  }
+  
+
+.feedback  {
+    font-family: 'Hahmlet', serif;
+    overflow-y: auto;
+    margin: 0 auto;
+    width: 600px;
+    height: 500px;
+    border : 1px solid;
+    font-weight: 400;
+    font-size: 20px;
+    font-style: normal;
+    line-height: 1.5; 
+}
+
+#question-window {
+    text-align: center;
+
+}
+
+.input {
+    width: 500px;
+    resize: none;
+    }
+
+.send_btn {
+    width: 100px;
+}
+
